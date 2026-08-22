@@ -1,0 +1,11 @@
+print("hello")
+name = "oniva"
+print("name is",name)
+print("today I'll do some sums")
+print(30000*400)
+print(56573%670)
+print(84768494+5478)
+print(34982007060-5436894)
+print(90/37)
+print(90//37)
+print(5**3)
