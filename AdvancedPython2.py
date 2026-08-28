@@ -1,0 +1,5 @@
+print("Welcome to the world of \n programming!")
+print("My name is Oniva.")
+print("I read in 7th grade")
+print("My section name is Jade", end="  ")
+print("and roll no is ", 5)
